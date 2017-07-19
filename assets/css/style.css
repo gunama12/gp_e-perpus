@@ -1,0 +1,13 @@
+.footer {
+  font-family: arial;
+  font-size: 10px;
+  font-weight: normal;
+  color: #6d6e71;
+  background: #f7f7f7;
+  margin-top: 100px;
+  padding: 10px;
+}
+
+#infoMessage{
+	color: red;
+}
